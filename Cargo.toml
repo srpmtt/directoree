@@ -1,0 +1,11 @@
+[package]
+name = "directoree"
+version = "0.0.1"
+edition = "2021"
+description = "Print current directory tree."
+repository = "https://github.com/srpmtt/directoree"
+keywords = ["cli", "directory", "tree"]
+categories = ["command-line-utilities"]
+license = "MIT"
+
+[dependencies]
