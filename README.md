@@ -12,5 +12,6 @@ Print the current directory tree.
 directoree [OPTIONS]
 
 options:
--a, --all    show hidden and ignored files
+-a, --all      show hidden and ignored files
+-o, --output   save to file
 ```
